@@ -1,6 +1,6 @@
 # Simple_Encrypt_Decrypt_with_Textbox_Application_in_Python
 
-# Simple Encryption and Decryption Application
+Simple Encryption and Decryption Application
 
 # Overview
 
@@ -14,7 +14,7 @@ The dec.py script takes an input encrypted text and shifts each character back b
 
 # Usage
 
-enc/.py 
+enc.py 
 Run enc.py to launch the Encryption Generator window.
 Enter the text you want to emcrypt in the provied text field.
 Click the "Encrypt" button to perform the encryption.
