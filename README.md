@@ -27,8 +27,9 @@ Click the "Decrypt" button to perform the decryption.
 The decrypted text will be displayed along with the encrypted input text.
 
 # Requirements
-Python 3.x
-tkinter library
+-Python 3.x
+
+-tkinter library
 
 # How to Run
 To the the application, execute the 'enc.py' and 'dec.py' seperately in a Python environment that supports the tkinter library.
